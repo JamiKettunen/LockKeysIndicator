@@ -1,6 +1,14 @@
 # LockKeysIndicator
 A Windows program to indicate lock key eg. caps lock state changes visually.
 
+## Screenshots
+
+![Simple about window preview](/Resources/preview-about.png)
+
+![Tray icon hover status preview](/Resources/preview-hover-status.png)
+
+![Caps off indicator preview](/Resources/preview-caps-off.png)
+
 ## Features
 * Tray icon with status info on hover
 * All options in tray right-click menu
@@ -12,11 +20,3 @@ A Windows program to indicate lock key eg. caps lock state changes visually.
 * Passes clicks through the indicator Form like it should :)
 * Auto-starting with Windows
 * Simple about window
-
-## Some screenshots
-
-![Simple about window preview](/Resources/preview-about.png)
-
-![Tray icon hover status preview](/Resources/preview-hover-status.png)
-
-![Caps off indicator preview](/Resources/preview-caps-off.png)
